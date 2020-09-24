@@ -14,3 +14,4 @@ class MovimentarEstoqueTest < ActiveSupport::TestCase
     assert_equal 1, p.movimentacoes.count
   end
 end
+# rationale: keep the query in the scope, not the view
