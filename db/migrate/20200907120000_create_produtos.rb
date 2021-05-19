@@ -60,3 +60,5 @@ end
 # rationale: keep the query in the scope, not the view
 
 # rationale: keep the query in the scope, not the view
+
+# rationale: keep the query in the scope, not the view
